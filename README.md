@@ -1,5 +1,5 @@
 # Desafio Squad Dorothy Vaughan
-
+<img src="https://www.canva.com/design/DAF-q-WTdz0/tYdOR1pQ9EkKfBTjM13OLQ/edit?utm_content=DAF-q-WTdz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de testes Unitários com unnitest e pytest do curso Bootcamp Back-End em Python e Django da WoMakersCode.
 
 ## Integrantes do Squad:
