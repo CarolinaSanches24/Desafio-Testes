@@ -17,8 +17,6 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 - [Thaís Aparecida dos Santos](https://github.com/ThaisAp10)
 - [Maria Carolina de J. de Moraes](https://github.com/CarolinaSanches24)
 
----
-
 ## Desafio - Introdução a testes no Python:
 
 ### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
@@ -79,6 +77,10 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 7.
 8.
 9.
+
+### Prazo de Entrega
+
+A squad deve responder o formulário até às 19h do dia 11/03.
 
 ### Links Utéis
 
