@@ -37,4 +37,44 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 6.
 7.
 8.
+
+## Desafio - Fazer testes no Pytest:
+
+### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
+
+## Branch Utilizada
+
+    Branch:
+    DesafioPytest_SquadDorothyVaughan
+
+#### O que foi feito:
+
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+## Desafio - Teste Avançado com Pytest:
+
+### Forma de organização (como nos organizamos para fazer a resolução dos desafios):
+
+## Branch Utilizada
+
+    Branch:
+    DesafioPytest_SquadDorothyVaughan
+
+#### O que foi feito:
+
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 9.
