@@ -79,3 +79,8 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 7.
 8.
 9.
+
+### Links Utéis
+
+- Commits semânticos :
+  https://github.com/iuricode/padroes-de-commits?tab=readme-ov-file
