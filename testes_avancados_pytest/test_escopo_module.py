@@ -1,0 +1,1 @@
+# Trabalhar com escopos
