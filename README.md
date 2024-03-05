@@ -78,6 +78,10 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 8.
 9.
 
+### Prazo de Entrega
+
+A squad deve responder o formulário até às 19h do dia 11/03.
+
 ### Links Utéis
 
 - Commits semânticos :
