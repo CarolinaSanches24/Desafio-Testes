@@ -29,7 +29,7 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 #### O que foi feito:
 
 1. Maria Carolina fez as configurações iniciais do projeto.
-2.
+2. Clarice Soares implementou o código do arquivo test_advanced.py
 3.
 4.
 5.
