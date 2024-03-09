@@ -68,8 +68,8 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 
 #### O que foi feito:
 
-1.
-2.
+1. Isadora implementou teste no arquivo test_escopo_module.py
+2. Isadora implementou teste no arquivo test_request.py
 3.
 4.
 5.
