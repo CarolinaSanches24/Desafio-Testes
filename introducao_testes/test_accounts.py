@@ -1,4 +1,4 @@
-#Convenções de nomenclatua
+#Convenções de nomenclatura
 import unittest
 
 class Account: 
