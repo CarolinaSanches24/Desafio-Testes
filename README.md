@@ -31,7 +31,7 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 1. Maria Carolina fez as configurações iniciais do projeto.
 2. Clarice Soares implementou o código do arquivo test_advanced.py
 3. Jane criou uma instância da classe Accounts antes de chamar os métodos create() e delete() para a resolução execução do test_accounts.py
-4.
+4. Ana Barreto adicionou os testes avançados com acessorios e parametrização.
 5.
 6.
 7.
@@ -48,8 +48,8 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 
 #### O que foi feito:
 
-1. Simone fez os testes no arquivo <\fazer_testes_pytest\tests\test_main.py> Obs. Para o teste funcionar, alterar nome do arquivo <\C:\Users\User\OneDrive\RepositoriosGitHub\Desafio-Testes\introducao_testes\test_exercise.py>
-2.
+1. Simone fez os testes no arquivo <\fazer_testes_pytest\tests\test_main.py> Obs. Para o teste funcionar, alterar nome do arquivo <\introducao_testes\test_exercise.py>
+2. Simone adicionou rotina de testes do arquivo caminho: <\fazer_testes_pytest\tests\test_files.py >
 3.
 4.
 5.
@@ -70,8 +70,8 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 
 1. Isadora implementou teste no arquivo test_escopo_module.py
 2. Isadora implementou teste no arquivo test_request.py
-3.
-4.
+3. Ana Barreto implementou teste no arquivo test_accessories.py
+4. Ana Barreto implementou teste no arquivo test_params.py
 5.
 6.
 7.
