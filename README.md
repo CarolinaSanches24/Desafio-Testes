@@ -30,7 +30,7 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 
 1. Maria Carolina fez as configurações iniciais do projeto.
 2. Clarice Soares implementou o código do arquivo test_advanced.py
-3.
+3. Jane criou uma instância da classe Accounts antes de chamar os métodos create() e delete() para a resolução execução do test_accounts.py
 4.
 5.
 6.
@@ -76,7 +76,7 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 6.
 7.
 8.
-9.
+9.Jane executou testes_avançados_pytest_test_args_params.py
 
 ### Prazo de Entrega
 
