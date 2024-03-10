@@ -29,7 +29,7 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 #### O que foi feito:
 
 1. Maria Carolina fez as configurações iniciais do projeto.
-2.
+2. Ana Barreto adicionou os testes avançados com acessorios e parametrização.
 3.
 4.
 5.
