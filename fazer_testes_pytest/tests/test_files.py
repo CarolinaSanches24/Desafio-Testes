@@ -32,3 +32,4 @@ class TestIsDone:
         with open(self.tmp_file, "w") as _f:
             _f.write("no")
         assert is_done(self.tmp_file) is False
+        
