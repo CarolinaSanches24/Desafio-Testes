@@ -1,4 +1,6 @@
 # Trabalhar com escopos
+import pytest
+import tempfile
 
 @pytest.fixture(scope="module")
 def tmp_file():

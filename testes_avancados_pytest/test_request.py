@@ -1,4 +1,7 @@
 # registrar uma função de limpeza usando um acessório interno especial chamado request
+import tempfile
+import pytest
+import os
 
 @pytest.fixture(scope="module")
 def tmp_file(request):
