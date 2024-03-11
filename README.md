@@ -32,7 +32,7 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 2. Clarice Soares implementou o código do arquivo test_advanced.py
 3. Jane criou uma instância da classe Accounts antes de chamar os métodos create() e delete() para a resolução execução do test_accounts.py
 4. Ana Barreto adicionou os testes avançados com acessorios e parametrização.
-5.
+5. Maitê Haramoni adicionou os testes no introdução testes test_exercise.py e um novo código de teste para o test_assertions.
 6.
 7.
 8.
