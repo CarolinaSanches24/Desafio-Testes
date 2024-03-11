@@ -50,7 +50,7 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de test
 
 1. Simone fez os testes no arquivo <\fazer_testes_pytest\tests\test_main.py> Obs. Para o teste funcionar, alterar nome do arquivo <\introducao_testes\test_exercise.py>
 2. Simone adicionou rotina de testes do arquivo caminho: <\fazer_testes_pytest\tests\test_files.py >
-3.
+3. Thaís Aparecida implementou o código do exercício test_exercise.py que utiliza o pytest para testar a função.
 4.
 5.
 6.
